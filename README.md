@@ -4,7 +4,7 @@ This project is a simple Todo List application created using the React library a
 
 ## Features
 - **Add Task**: Users can add tasks to the list by entering the task description and pressing the "Add" button.
-- **Change Order**: Users can change the order of tasks by clicking on upicon or down icon present within the list.
+- **Change Order**: Users can change the order of tasks by clicking on up icon or down icon present within the list.
 - **Delete Task**: Users can delete tasks from the list by clicking on the delete button associated with each task.
 - **Responsive Design**: The application is responsive and can be used on various screen sizes.
 
